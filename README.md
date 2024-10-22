@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80"/>
@@ -7,18 +6,18 @@
 
 
 <h1>
-  hey there human.
+  Hey there human.👋
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 <h2>I'm led to believe that you are not a robot or AI 👀</h2>
 <p><em>Just kidding...</em></p>
 
-<h2 align="center">Hi 👋! My name is Morgan Nwaiku Iyen and I'm a Software Engineer, and a seasoned Cybersecurity professional</h2>
+<h2 align="center">Hi 👋! My name is Morgan Nwaiku and I'm a Software Engineer, Tester and a seasoned Cybersecurity professional</h2>
 
 ###
 
-<p align="left">💡 I have substantial knowledge and experience in frontend and backend development frameworks, my expertise in cybersecurity allows me to build and safeguard these solutions against evolving threats.<br>🔦 In my free time, I try to help people fix bugs in their code.<br>I code certain stuff for fun as well :)<br>I love to learn new cool stuff</p>
+<p align="left">💡 I have substantial knowledge and experience in frontend and backend development frameworks, my expertise in cybersecurity allows me to build, test and safeguard these solutions against evolving threats.<br>🔦 In my free time, I try to help people fix bugs in their code and play basketball while learning about AI.<br>I code certain stuff for fun as well :)<br>I love to learn new cool stuff</p>
 
 ###
 
