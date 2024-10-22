@@ -84,7 +84,7 @@
 
 <div align="left">
  
-  <a href="https://www.linkedin.com/in/Morgan Nwaiku](https://www.linkedin.com/in/morgan-nwaiku-microsoft-az-sc-itil-safe-85aa98164?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXb3CGwPeR26Gj3dqih%2FR%2FQ%3D%3D" target="_blank">
+  <a href="https://www.linkedin.com/in/morgan-nwaiku-microsoft-az-sc-itil-safe-85aa98164/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
 </div>
